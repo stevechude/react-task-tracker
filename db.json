@@ -23,6 +23,24 @@
       "day": "wednesday",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "call bridgemead today",
+      "day": "1st August 2022",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "attend standup",
+      "day": "8pm 01/08/2022",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "movie night",
+      "day": "01/08/2022 by 10pm",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
